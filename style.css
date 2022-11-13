@@ -1,0 +1,33 @@
+body {
+  background: linear-gradient(
+    27deg,
+    rgba(86, 86, 221, 1) 29%,
+    rgba(190, 215, 157, 1) 85%
+  );
+  margin: 5% 0 0 10%;
+  background-repeat: no-repeat;
+  height: 100vh;
+}
+
+input {
+  border: none;
+  padding: 15px;
+  width: 50%;
+  display: block;
+  margin-top: 20px;
+  border-radius: 10px;
+  background-color: #ededed;
+}
+h2 {
+  color: #18185f;
+  font-size: 2rem;
+}
+
+button {
+  background-color: #bed79d;
+  outline: none;
+  border: none;
+  border-radius: 15px;
+  padding: 10px 20px;
+  margin-top: 20px;
+}
